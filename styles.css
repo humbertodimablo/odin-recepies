@@ -1,0 +1,44 @@
+*,
+* ::before,
+* ::after { 
+    box-sizing: border-box;
+} 
+
+* {margin: 0;
+padding: 0;}
+
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+line-height: 1.5;}
+
+
+
+.title {
+font-size: 100px;
+text-align: center;
+
+     color:rgb(225, 135, 17);
+     margin: 2em;
+     border-top: 10px double yellow; 
+     border-bottom: 20px dotted fuchsia;
+     border-right: 28px solid aquamarine;
+     padding: 0;
+
+}
+
+.title2 {
+
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+    margin:0;
+    Padding:0;
+    border-right: 10px inset green;
+    border-bottom: 10px inset green; 
+border-top: 10px double fuchsia;
+border-left: 10px double fuchsia;
+} 
+
+div a {
+    
+}

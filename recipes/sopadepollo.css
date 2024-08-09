@@ -1,0 +1,36 @@
+*,
+* ::before,
+* ::after { 
+    box-sizing: border-box;
+} 
+
+* {margin: 0;
+padding: 0;}
+
+body{line-height: 1.5;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1 {
+    border: solid darkgrey;
+    color: #005bda;
+text-align: center;
+}
+
+img { 
+   
+    box-sizing: border-box;
+    padding-left: 200px;
+    border-left-width: 100px;
+    width: 400px;
+}
+
+ul {list-style: none;
+font-weight: bold;}
+
+h2 {text-align: center;
+    background-color: olive;
+    color: oldlace;
+}
+h3 {background-color: olive;
+color: oldlace;
+text-align: center;}
